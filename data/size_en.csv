@@ -1,0 +1,36 @@
+Name,PrintWidth,PrintHeight,ElectronicWidth,ElectronicHeight,Resolution,FileFormat,FileSizeMin,FileSizeMax,Type,Notes
+Small One Inch,2.2,3.2,260,378,300,jpg,,,photo,2.2/2.54*300=260，3.2/2.54*300=378
+One Inch,2.5,3.5,295,413,300,jpg,,,photo,2.5/2.54*300=295，3.5/2.54*300=413
+Large One Inch,3.3,4.8,390,567,300,jpg,,,photo,3.3/2.54*300=390，4.8/2.54*300=567
+Small Two Inch,3.3,4.8,390,567,300,jpg,,,photo,3.3/2.54*300=390，4.8/2.54*300=567
+Two Inch (ID Photo),3.7,4.9,437,579,300,jpg,,,photo,3.5/2.54*300=437，5.3/2.54*300=579
+Large Two Inch (Standard),3.7,5.3,437,626,300,jpg,,,photo,3.5/2.54*300=437，5.3/2.54*300=626
+Five Inch,8.9,12.7,1051,1500,300,jpg,,,both,Using 3R standard size
+Six Inch,10.2,15.2,1205,1795,300,jpg,,,both,Using 4R standard size
+Chinese Driver's License,2.2,3.2,260,378,300,jpg,14,30,photo,Same as Small One Inch size
+Chinese ID Card,2.6,3.2,358,441,350,jpg,,,photo,Chinese ID Card Resolution is 350dpi
+Chinese Social Security Photo,2.6,3.2,358,441,350,jpg,9,20,photo,Same size and resolution as Chinese ID Card
+Chinese Adult Higher Education Exam,4.8,6.4,567,756,300,jpg,20,6144,photo,4.8/2.54*300=567，6.4/2.54*300=756
+Chinese Art Exam Application Photo,3.7,5.3,437,626,300,jpg,,,photo,Same as Large Two Inch (Standard)
+Chinese Mandarin Proficiency Test Photo,3.3,4.8,390,567,300,jpg,,,photo,Same as Large One Inch size
+Chinese Civil Service Exam,2.5,3.5,295,413,300,jpg,,,photo,Same as One Inch size
+Chinese College Entrance Exam Photo,4.06,5.41,480,640,300,jpg,50,200,photo,(Varies by region) PrintWidth=480/300*2.54=4.06cm，PrintHeight=640/300*2.54=5.41cm
+Chinese Self-study Higher Education Exam,1.2,1.6,142,189,300,jpg,,,photo,(Varies by region) 1.2/2.54*300=142，1.6/2.54*300=189
+Chinese Nurse Qualification Exam Photo,2.5,3.5,295,413,300,jpg,45,,photo,Same as One Inch size
+Chinese Teacher Qualification Certificate Photo,3.0,4.1,354,484,300,jpg,,,photo,3.0/2.54*300=354，4.1/2.54*300=484
+Chinese National Computer Rank Exam,3.3,4.8,390,567,300,jpg,20,200,photo,Same as Large One Inch size
+Chinese Japanese Language Proficiency Test,3.0,4.0,354,472,300,jpg/jpeg,20,200,photo,3.0/2.54*300=354，4.0/2.54*300=472
+Chinese National English Test,3.3,4.8,390,567,300,jpg,20,200,photo,Same as Large One Inch size
+Chinese Level 2 Computer Exam,3.3,4.8,390,567,300,jpg,20,200,photo,Same as Large One Inch size
+Chinese Primary School Teacher Qualification,1.27,1.69,150,200,300,jpg/jpeg,,200,photo,PrintWidth=150/300*2.54=1.27cm，PrintHeight=200/300*2.54=1.69cm
+Chinese Junior Accountant Exam,2.5,3.5,295,413,300,jpg,,,photo,Same as One Inch size
+Chinese CET-4/6 Exam,1.2,1.6,142,189,300,jpg,20,200,photo,(Varies by region)
+Chinese Graduate Entrance Exam,2.5,3.5,295,413,300,jpg,,10240,photo,Same as One Inch size
+Chinese Social Security Card,2.6,3.2,358,441,350,jpg,,,photo,Same size and resolution as ID Card
+Chinese Electronic Driver's License,2.2,3.2,260,378,300,jpg,,,photo,Same as Small One Inch size
+Chinese US Visa Photo,5.08,5.08,600,600,300,jpg,,,photo,PrintWidth=PrintHeight=600/300*2.54=5.08cm
+Chinese Japan Visa Photo,4.5,4.5,531,531,300,jpg,,,photo,4.5/2.54*300=531
+Chinese Korea Visa Photo,3.5,4.5,413,531,300,jpg,,,photo,3.5/2.54*300=413，4.5/2.54*300=531
+A4,21.0,29.7,2480,3508,300,jpg,,,sheet,21.0/2.54*300=2480，29.7/2.54*300=3508
+3R,8.9,12.7,1051,1500,300,jpg,,,sheet,
+4R,10.2,15.2,1205,1795,300,jpg,,,sheet,

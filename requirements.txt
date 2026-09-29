@@ -1,0 +1,12 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.12,<1
+cffi
+colorama
+mozjpeg_lossless_optimization
+onnxruntime>=1.17.0
+orjson>=3.10.7
+Pillow>=10.0.0
+opencv-python-headless>=4.10.0
+numpy>=1.26.0
+piexif

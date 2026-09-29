@@ -1,0 +1,11 @@
+Name,R,G,B,Notes
+blue,98,139,206,Standard ID photo background color
+white,255,255,255,Used for some special ID photos
+red,215,69,50,Background color used in some countries
+light_blue,180,200,230,Softer background color
+dark_blue,0,71,171,Background color for some formal occasions
+gray,128,128,128,Neutral background color
+beige,245,245,220,Mild background color
+light_green,144,238,144,Fresh background color
+lavender,230,230,250,Soft background color
+sky_blue,135,206,235,Bright background color

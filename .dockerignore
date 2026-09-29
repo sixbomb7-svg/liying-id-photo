@@ -1,0 +1,11 @@
+models/*.zip
+models/*.7z
+__pycache__/
+*.py[cod]
+.git/
+.venv/
+__pycache__/
+test-output*.png
+
+models/unpacked/
+
