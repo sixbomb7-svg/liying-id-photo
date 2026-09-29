@@ -27,6 +27,7 @@ COPY data /app/data
 
 ENV PYTHONPATH=/app/src
 ENV LIYING_MODEL_DIR=/app/models
-ENV PORT=8080
-EXPOSE 8080
-CMD ["sh", "-c", "uvicorn app:app --host 0.0.0.0 --port ${PORT:-8080}"]
+ENV PORT=80
+EXPOSE 80
+CMD ["sh", "-c", "uvicorn app:app --host 0.0.0.0 --port ${PORT:-80}"]
+
